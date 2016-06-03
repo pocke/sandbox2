@@ -1,12 +1,12 @@
-def do_something
+def do_somethin
   
 end
 
-def do_something2(a, b)
+def do_something2(a, b, c)
   
 end
 
-def do_something3(a: b)
+def do_something3(c: b)
   
 end
 
