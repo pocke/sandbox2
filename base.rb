@@ -9,3 +9,8 @@ end
 def do_something3(a: b)
   
 end
+
+
+do_something
+do_something2(x, y)
+do_something3(a: z)
