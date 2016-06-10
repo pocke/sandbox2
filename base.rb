@@ -10,26 +10,26 @@ def do_something3(c: b)
   
 end
 
-def aaaaaaaaaaa(a, *b, **c)
+def aaaaaaaaaaa(a, *b, c: d)
   
 end
 
-def ccccccccc(a, b = 1, c: 1)
+def ccccccccc(a, d, b = 1, c: 1)
   
 end
 
-def ddddddddd(x: 1, y: 2, z: 3)
+def ddddddddd(x: 1, z: )
   
 end
 
-def qqqqqqqqqqq(x)
+def qqqqqqqqqqq(x: 1)
   
 end
 
 def multi_line_arg(
   x,
-  y,
-  fdjsaflk
+  fdjsaflk,
+  y: 1
 )
   
 end
