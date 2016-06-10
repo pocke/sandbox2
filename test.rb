@@ -16,3 +16,6 @@ l.call(x)
 def b(x)
   
 end 
+
+
+[a,b,c,d,e]
