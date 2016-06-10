@@ -1,18 +1,17 @@
-a = "bbb"
+a = 'bbb'
 
 def foo
-    'a'
+  'a'
 end
 
-aaa;
+aaa
 
-not 1
+!1
 
-l = lambda {|a| a }
-l.(x)
+l = ->(a) { a }
+l.call(x)
 l[x]
 l.call(x)
 
 def b(x)
-  
-end 
+end
