@@ -10,7 +10,3 @@ def baz
   a = "aaa"
   return a
 end
-def fooaaa
-  a = "aaa"
-  return a
-end
