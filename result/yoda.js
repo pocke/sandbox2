@@ -1,27 +1,13 @@
-if ("red" === color) {
-    // ...
-}
-if (color === "red") {
-    // ...
-}
-/*eslint yoda: "error"*/
 
-if ("red" === color) {
-    // ...
-}
+/*eslint no-multi-spaces: "error"*/
 
-if (true == flag) {
-    // ...
-}
+var a =  1;
 
-if (5 > count) {
-    // ...
-}
+if(foo   === "bar") {}
 
-if (-1 < str.indexOf(substr)) {
-    // ...
-}
+a <<  b
 
-if (0 <= x && x < 1) {
-    // ...
-}
+var arr = [1,  2];
+
+a ?  b: c
+
