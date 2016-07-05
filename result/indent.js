@@ -99,7 +99,6 @@ let a,
 const a = 1,
       b = 2,
       c = 3;
-/*eslint indent: ["error", 2, { "outerIIFEBody": 0 }]*/
 
 (function() {
 
@@ -113,7 +112,6 @@ const a = 1,
 if(y) {
 console.log('foo');
 }
-/*eslint indent: ["error", 2, { "outerIIFEBody": 0 }]*/
 
 (function() {
 
