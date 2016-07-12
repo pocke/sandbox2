@@ -14,3 +14,4 @@ var arr = [1,  2];
 
 a ?  b: c
 
+var a =  1;
