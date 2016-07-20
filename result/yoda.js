@@ -6,6 +6,7 @@ var a =  1;
 var a =  1;
 
 if(foo   === "bar") {}
+if(foo   === "bar") {}
 
 a <<  b
 a <<  b
@@ -14,6 +15,5 @@ var arr = [1,  2];
 
 a ?  b: c
 
-var a =  1;
 var a =  1;
 var a =  1;
