@@ -1,16 +1,17 @@
-class AAA
-  def initialize
-    @a
-  end
-
-  def a
-    @a
-  end
-
-    def foo
-      bar
+a = 1
+  class AAA
+    def initialize
+      @a
     end
-end
-
-a = ['x','y','z']
-puts a
+  
+    def a
+      @a
+    end
+  
+      def foo
+        bar
+      end
+  end
+  
+  a = ['x','y','z']
+  puts a
