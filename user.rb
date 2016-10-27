@@ -14,8 +14,8 @@ class User
   end
 
   def foo
-    hoge {
+    hoge do
       bar
-    }
+    end
   end
 end
