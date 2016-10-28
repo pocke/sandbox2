@@ -1,0 +1,3 @@
+linter:
+  ignore_path:
+    - dirty.rb
