@@ -1,7 +1,8 @@
+# frozen_string_literal: true
 class User
-  attr :hoge
+  attr_reader :hoge
   def initialize
-    @hoge =    [a,b,c,d]*''
+    @hoge = [a, b, c, d].join('')
     # にゃーん
   end
 
@@ -14,8 +15,8 @@ class User
   end
 
   def foo
-    hoge {
+    hoge do
       bar
-    }
+    end
   end
 end
