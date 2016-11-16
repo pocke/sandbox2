@@ -3,3 +3,4 @@ if foo
 end
 
 foo bar hoge fuga;
+new_wrong_code;
