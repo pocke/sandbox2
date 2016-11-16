@@ -4,6 +4,16 @@ def foo
     'a'
 end
 
+def a
+  def b
+    1
+    ['a','c']
+    'C'
+    "A"
+    ?a
+  end
+end
+
 aaa;
 
 not 1
