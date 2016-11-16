@@ -1,6 +1,3 @@
-  function () {
-    
-  }
   foo.bar()
 console.log('hoge')
 "hogehoge"
