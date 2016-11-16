@@ -18,6 +18,6 @@ def b(x)
 end 
 
 
-[a,b,c,d,e]
-
-foo (  x)
+    [a,b,c,d,e]
+    
+    foo (  x)
