@@ -1,6 +1,6 @@
 def foo
   1
   2
-  3
+  x = 3
   4
 end
