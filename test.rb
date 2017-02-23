@@ -1,3 +1,6 @@
+eval 'x'
+Marshal.load('hogehoge')
+
 a = "bbb"
 
 def foo
