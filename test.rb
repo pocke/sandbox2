@@ -14,3 +14,10 @@ not 1
  l[x][x].(x)
 l.call(x)
 
+
+foo if foo
+foo
+  foo
+    foo
+      foo
+        foo
