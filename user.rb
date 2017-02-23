@@ -12,4 +12,10 @@ class User
   def poyo
     1 + 1
   end
+
+  def foo
+    hoge {
+      bar
+    }
+  end
 end
