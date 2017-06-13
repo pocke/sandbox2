@@ -6,3 +6,5 @@ rules:
       foo() を使わないで下さい。
 
       foo() は deprecated です。
+    before: 'foo()'
+    after: 'foo()'
