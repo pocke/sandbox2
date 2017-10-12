@@ -24,3 +24,6 @@ foo
     foo
       foo
         foo
+
+# Misspelled
+infomation(0)
